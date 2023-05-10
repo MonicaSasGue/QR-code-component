@@ -1,5 +1,4 @@
 <!-- Proyect -->
-# ------- Proyect --------
 
 <div align="center">
 
@@ -37,10 +36,8 @@
 <br />
 
 <!-- preview -->
-
-# ------- Preview --------
-
 <div align='center'>
+  <h2>Preview</h2>
   <img src="./images/preview.webp" alt="QR code component preview image">
 </div>
 
@@ -48,7 +45,9 @@
 # ------- Pagespeed Insights Score -------
   
 - ||
-  | <img src='./images/pagespeed-insights-score.svg' alt='Scoreboard'> |
+  | <img src='./images/PageSpeed_movil.webp' alt='Scoreboard Movil'> |
+  | |
+  | <img src='./images/PageSpeed_desktop.webp' alt='Scoreboard Desktop'> |
   | |
   | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-incandescent-starship-157aae-netlify-app/lxwerrjjc5?form_factor=mobile) to get live score |
   ||
